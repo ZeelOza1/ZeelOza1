@@ -1,3 +1,5 @@
+![banner](./assets/Github_profile_background.png)
+
 ## Hii Everyone 👋👋
 
 I'm <b><u>Zeel Oza</u></b>, a passionate Computer Engineering student with a focus on Full Stack Development. <br>
