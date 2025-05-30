@@ -1,4 +1,4 @@
-![banner](./assets/Github_profile_background.png)
+![banner](./assets/profile_background.png)
 
 ## Hii Everyone 👋👋
 
