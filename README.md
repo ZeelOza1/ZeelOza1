@@ -7,7 +7,7 @@ I'm <b><u>Zeel Oza</u></b>, a passionate Computer Engineering student with a foc
 - 📚 Always eager to learn, collaborate, and contribute to meaningful tech solutions. <br>
 
 ## 🎓 Education
-- 📚 H.S.C from GSHSEB (2021 - 2022) - Performance : 75 % <br>
+- 📚 H.S.C from GSHSEB (2021 - 2022) - Performance : 7 % <br>
 - 🧑‍🎓 Bachelor's Degree in Computer Engineering @ LDRP-ITR, Gandhinagar (2022 - 2026) <br>
 
 ## 🛠 Technologies I Use  
